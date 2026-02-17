@@ -82,12 +82,6 @@ Please fork the repository and submit a pull request with your improvements.
 
 ---
 
-## 📄 License
-This project is licensed under the **MIT License**.  
-See the [LICENSE](LICENSE) file for details.  
-
----
-
 ## 🙌 Acknowledgements
 - Dataset: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Student+Performance)  
 - Libraries: Pandas, Matplotlib, Scikit-learn  
